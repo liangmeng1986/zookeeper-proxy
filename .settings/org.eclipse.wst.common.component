@@ -110,25 +110,25 @@
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/aliyun-sdk-oss-2.2.3.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/aliyun-sdk-oss-2.2.3.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/commons-codec-1.9.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/commons-codec-1.9.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpasyncclient-4.0.1.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpasyncclient-4.0.1.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpclient-4.4.1.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpclient-4.4.1.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpcore-4.4.1.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpcore-4.4.1.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpcore-nio-4.3.2.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/httpcore-nio-4.3.2.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/zookeeper-proxy/src/main/webapp/WEB-INF/lib/thumbnailator-0.4.8.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/git/zookeeper-proxy/src/main/webapp/WEB-INF/lib/thumbnailator-0.4.8.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 	</wb-module>
